@@ -15,6 +15,8 @@ npm run build
 npm start
 ```
 
+이제 localhost:5000 에 들어가세요.
+
 ### 미리보기  
 https://character-app-i0dd.onrender.com - 이미지 오류가 있습니다.
 
